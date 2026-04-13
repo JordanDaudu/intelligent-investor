@@ -1,0 +1,15 @@
+# Node
+node_modules/
+
+# Docker
+*.log
+
+# Environment variables
+.env
+
+# Database data (volumes)
+postgres_data/
+
+# OS files
+.DS_Store
+Thumbs.db
